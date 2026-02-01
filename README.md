@@ -129,7 +129,8 @@ BS Software Engineering — (2021–2025)
   <img alt="Badge" src="https://img.shields.io/badge/RAG-0D0D0D?style=for-the-badge&logo=apachekafka&logoColor=DA1E37" />
   <img alt="Badge" src="https://img.shields.io/badge/Vector%20DBs-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=DA1E37" />
   <img alt="Badge" src="https://img.shields.io/badge/MLOps-0D0D0D?style=for-the-badge&logo=githubactions&logoColor=DA1E37" />
-  <img alt="Badge" src="https://img.shields.io/badge/CV-0D0D0D?style=for-the-badge&logo=opencv&logoColor=DA1E37" />
+  <img alt="Agentic AI" src="https://img.shields.io/badge/Agentic AI-0D0D0D?style=for-the-badge&logo=LangChain&logoColor=A855F7" />
+
 </p>
 
 ---
