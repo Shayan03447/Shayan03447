@@ -2,7 +2,7 @@
   
   # Shayan Ali
   
-  ### AI Engineer | Agentic & LLM Applications | MLOps & Cloud Deployment
+  ### AI Engineer | Multi-Agent & LLM Applications | MLOps & Cloud Deployment
   
 <img 
   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&duration=2000&color=2E9EF7&center=true&vCenter=true&width=650&lines=AI+Engineer+%40+AirBridge;Production-Grade+AI+Applications;LLM+and+Agentic+AI+Systems"
